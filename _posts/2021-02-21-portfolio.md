@@ -11,12 +11,12 @@ permalink: /portfolio.html
 
 ## History
 + 성균관대학교, 소프트웨어플랫폼학과 졸업 (석사) - 前 임베디드소프트웨어학과 - <2012.09-2014.08>
-  + **삼성테크윈 석사과정 산학장학생 과정**
+  + <mark style='background-color: #ffdce0'>**삼성테크윈 석사과정 산학장학생 과정**</mark>
 + 광운대학교, 컴퓨터공학과 졸업 (학사) <2005.03-2012.02>
 + SK하이닉스 (Software Process 셋업 및 In-House Tool 개발)
   + Software 개발자로 참여
     + Certificate
-    + QRNG(양자암호) 적용 Pilot 선행과제 개발 완료 - **현재 SKT와 사업화 진행중** -
+    + <mark style='background-color: #ffdce0'>QRNG(양자암호) 적용 Pilot 선행과제 개발 완료 - **현재 SKT와 사업화 진행중** -</mark>
     + Platform CI 자동화 환경 셋업 및 In-House Tool 개발 (Project: Blueberry)
     + Firmware Static Analysis Process 셋업 (해당 Process 실사용자 500명 이상)
       + 분당 연구소에서 사용중 (**SK hynix Inc.**)
@@ -25,7 +25,7 @@ permalink: /portfolio.html
   + Static Analysis 자동화 In-House Tool 개발 (Project: Mango, Statistics)
   + JIRA Issue Search Tool 개발 (Project: JIS)
   + 삼성테크윈 (네트워크 CCTV Backend FW Software 개발)
-    + **Software PL로 참여**
+    + <mark style='background-color: #ffdce0'>**Software PL로 참여**</mark>
       + VPM(Video Privacy Management)기술이 적용된 네트워크 CCTV 개발 프로젝트
     + Software 개발자로 참여
       + SNMP(Simple Network Management Protocol)를 이용하여 네트워크 CCTV 이벤트 제어 프로젝트
