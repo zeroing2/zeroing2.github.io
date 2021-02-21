@@ -1,20 +1,22 @@
 ---
 layout: page
-title: 데이터 분석, 머신러닝, 딥러닝의 대중화를 꿈 꿉니다.
+title: Portfolio
 tagline: Who am I?
 permalink: /about.html
 ---
 
 ## Contact
-+ [Blog](https://teddylee777.github.io)
-+ [GitHub](https://github.com/teddylee777)
-+ [LinkedIn](https://www.linkedin.com/in/teddy-lee/)
-+ [YouTube](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q)
-+ <teddylee777@gmail.com>
++ <zeroing2@gmail.com>
 
 ## History
-+ University of Wisconsin - Madison (위스콘신 주립대) 경제학 졸.
-+ 삼성 SCSA 1기 졸.
++ 성균관대학교, 소프트웨어플랫폼학과 졸업 (석사) - 前 임베디드소프트웨어학과 - <2012.09-2014.08>
+  + 삼성테크윈 석사과정 산학장학생 과정
++ 광운대학교, 컴퓨터공학과 졸업 (학사) <2005.03-2012.02>
++ SK하이닉스 (Software Process 셋업 및 In-House Tool 개발)
+  + Firmware Static Analysis Process 셋업
+  + Static Analysis 자동화 In-House Tool 개발 (Project: Mango, Statistics)
+  + Platform CI 자동화 환경 셋업 및 In-House Tool 개발 (Project: Blueberry)
+  + JIRA Issue Search Tool 개발 (Project: JIS)
 + 삼성전자 무선사업부 UX개발그룹 (Samsung Notes, Samsung Themes, 갤러리카메라 등 개발).
 + 삼성전자 C-Lab 사내벤처 스핀오프.
 + 아날로그플러스 공동창업, Co-Founder & CTO (헬멧 부착형 블루투스 웨어러블 디바이스 펌웨어 개발).
