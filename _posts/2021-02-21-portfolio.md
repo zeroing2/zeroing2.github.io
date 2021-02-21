@@ -15,25 +15,25 @@ permalink: /portfolio.html
 + 광운대학교, 컴퓨터공학과 졸업 (학사) <2005.03-2012.02>
 + SK하이닉스 (Software Process 셋업 및 In-House Tool 개발)
   + Software 개발자로 참여
-    + QRNG(양자암호) 적용 Pilot 선행과제 프로젝트 - **<mark style='background-color: #ffdce0'>현재 SKT와 사업화 진행중</mark>** -
-    + Platform CI 자동화 환경 셋업 및 In-House Tool 개발 프로젝트 (Project: Blueberry)
-      + Firmware Static Analysis Process 셋업 프로젝트 (<mark style='background-color: #ffdce0'>해당 Process 실사용자 500명 이상</mark>)
-      + 분당 연구소에서 사용중 (**SK hynix Inc.**)
-      + USA 연구소에서 사용중 (**SK hynix memory solutions America Inc.**)
-      + Belarus 연구소에서 사용중 (**SK hynix memory solutions Eastern Europe, LLC.**)
-    + Static Analysis 자동화 In-House Tool 개발 프로젝트 (Project: Mango, Statistics)
-    + JIRA Issue Search Tool 개발 프로젝트 (Project: JIS)
+    1. QRNG(양자암호) 적용 Pilot 선행과제 프로젝트 - **<mark style='background-color: #ffdce0'>현재 SKT와 사업화 진행중</mark>** -
+    2. Platform CI 자동화 환경 셋업 및 In-House Tool 개발 프로젝트 (Project: Blueberry)
+    3. Firmware Static Analysis Process 셋업 프로젝트 (<mark style='background-color: #ffdce0'>해당 Process 실사용자 500명 이상</mark>)
+       + 분당 연구소에서 사용중 (**SK hynix Inc.**)
+       + USA 연구소에서 사용중 (**SK hynix memory solutions America Inc.**)
+       + Belarus 연구소에서 사용중 (**SK hynix memory solutions Eastern Europe, LLC.**)
+    4. Static Analysis 자동화 In-House Tool 개발 프로젝트 (Project: Mango, Statistics)
+    5. JIRA Issue Search Tool 개발 프로젝트 (Project: JIS)
 + 삼성테크윈 (네트워크 CCTV Backend FW Software 개발)
   + **<mark style='background-color: #ffdce0'>Software PL로 참여</mark>**
-    + VPM(Video Privacy Management)기술이 적용된 네트워크 CCTV 개발 프로젝트
+    1. VPM(Video Privacy Management)기술이 적용된 네트워크 CCTV 개발 프로젝트
   + Software 개발자로 참여
-    + SNMP(Simple Network Management Protocol)를 이용하여 네트워크 CCTV 이벤트 제어 프로젝트
-    + RTSP(Real Time Streaming Protocol)를 이용하여 네트워크 CCTV와 NVR(Network Video Recorder)간 인증 프로젝트
-    + RTP(Real-time Transport Protocol)를 이용하여 H.264 부분암호화 프로젝트
-    + RS485 명령어 제어 프로젝트
-    + 네트워크 CCTV Pan-Tilt-Zoom 제어하는 다수 프로젝트
-    + 네트워크 CCTV 이벤트 발생시, SMTP(Simple Mail Transfer Protocol)을 이용하여 이메일 전송하는 기능 수정 프로젝트
-    + 네트워크 CCTV 이벤트 발생시, TCP/IP 소켓을 이용하여 서버에 메시지를 전송하는 프로젝트
+    1. SNMP(Simple Network Management Protocol)를 이용하여 네트워크 CCTV 이벤트 제어 프로젝트
+    2. RTSP(Real Time Streaming Protocol)를 이용하여 네트워크 CCTV와 NVR(Network Video Recorder)간 인증 프로젝트
+    3. RTP(Real-time Transport Protocol)를 이용하여 H.264 부분암호화 프로젝트
+    4. RS485 명령어 제어 프로젝트
+    5. 네트워크 CCTV Pan-Tilt-Zoom 제어하는 다수 프로젝트
+    6. 네트워크 CCTV 이벤트 발생시, SMTP(Simple Mail Transfer Protocol)을 이용하여 이메일 전송하는 기능 수정 프로젝트
+    7. 네트워크 CCTV 이벤트 발생시, TCP/IP 소켓을 이용하여 서버에 메시지를 전송하는 프로젝트
 
 ## Certificate
 
