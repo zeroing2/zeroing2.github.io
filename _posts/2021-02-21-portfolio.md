@@ -11,22 +11,30 @@ permalink: /portfolio.html
 
 ## History
 + 성균관대학교, 소프트웨어플랫폼학과 졸업 (석사) - 前 임베디드소프트웨어학과 - <2012.09-2014.08>
-  + 삼성테크윈 석사과정 산학장학생 과정
+  + **삼성테크윈 석사과정 산학장학생 과정**
 + 광운대학교, 컴퓨터공학과 졸업 (학사) <2005.03-2012.02>
 + SK하이닉스 (Software Process 셋업 및 In-House Tool 개발)
-  + QRNG(양자암호) 적용Pilot 선행과제 개발 완료 - **현재 SKT와 사업화 진행중** -
-    + 역할: Software 단독 개발자 (Inter-Integrated Circuit Protocol 기술 적용)
-  + Platform CI 자동화 환경 셋업 및 In-House Tool 개발 (Project: Blueberry)
-    + 역할: Software 단독 개발자
-  + Firmware Static Analysis Process 셋업 (해당 Process 실사용자 500명 이상)
-    + 분당 연구소에서 사용중 (**SK hynix Inc.**)
-    + USA 연구소에서 사용중 (**SK hynix memory solutions America Inc.**)
-    + Belarus 연구소에서 사용중 (**SK hynix memory solutions Eastern Europe, LLC.**)
+  + Software 개발자로 참여
+    + Certificate
+    + QRNG(양자암호) 적용 Pilot 선행과제 개발 완료 - **현재 SKT와 사업화 진행중** -
+    + Platform CI 자동화 환경 셋업 및 In-House Tool 개발 (Project: Blueberry)
+    + Firmware Static Analysis Process 셋업 (해당 Process 실사용자 500명 이상)
+      + 분당 연구소에서 사용중 (**SK hynix Inc.**)
+      + USA 연구소에서 사용중 (**SK hynix memory solutions America Inc.**)
+      + Belarus 연구소에서 사용중 (**SK hynix memory solutions Eastern Europe, LLC.**)
   + Static Analysis 자동화 In-House Tool 개발 (Project: Mango, Statistics)
-    + 역할: Software 단독 개발자
   + JIRA Issue Search Tool 개발 (Project: JIS)
-    + 역할: Software 단독 개발자
-+ 삼성테크윈 (네트워크 CCTV Backend FW Software 개발)
+  + 삼성테크윈 (네트워크 CCTV Backend FW Software 개발)
+    + **Software PL로 참여**
+      + VPM(Video Privacy Management)기술이 적용된 네트워크 CCTV 개발 프로젝트
+    + Software 개발자로 참여
+      + SNMP(Simple Network Management Protocol)를 이용하여 네트워크 CCTV 이벤트 제어 프로젝트
+      + RTSP(Real Time Streaming Protocol)를 이용하여 네트워크 CCTV와 NVR(Network Video Recorder)간 인증 프로젝트
+      + RTP(Real-time Transport Protocol)를 이용하여 H.264 부분암호화 프로젝트
+      + RS485 명령어 제어 프로젝트
+      + 네트워크 CCTV Pan-Tilt-Zoom 제어하는 다수 프로젝트
+      + 네트워크 CCTV 이벤트 발생시, SMTP(Simple Mail Transfer Protocol)을 이용하여 이메일 전송하는 기능 수정 프로젝트
+      + 네트워크 CCTV 이벤트 발생시, TCP/IP 소켓을 이용하여 서버에 메시지를 전송하는 프로젝트
 
 ## Certificate
 
