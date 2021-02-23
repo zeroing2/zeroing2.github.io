@@ -33,11 +33,11 @@ padding: 5px;
   + Software 개발자로 참여
     1. QRNG(양자암호) 적용 Pilot 선행과제 프로젝트 - **<mark style='background-color: #ffdce0'>현재 SKT와 사업화 진행중</mark>** -
     2. Platform CI 자동화 환경 셋업 및 In-House Tool 개발 프로젝트 (Project: Blueberry)
-    3. Firmware Static Analysis Process 셋업 프로젝트 (<mark style='background-color: #ffdce0'>해당 Process 실사용자 500명 이상</mark>)
+    3. [Firmware Static Analysis Process 셋업 프로젝트](https://zeroing2.github.io/static%20analysis/process/automation/SK_Hynix_History_4/) (<mark style='background-color: #ffdce0'>해당 Process 실사용자 500명 이상</mark>)
        + 분당 연구소에서 사용중 (**SK hynix Inc.**)
        + USA 연구소에서 사용중 (**SK hynix memory solutions America Inc.**)
        + Belarus 연구소에서 사용중 (**SK hynix memory solutions Eastern Europe, LLC.**)
-    4. Static Analysis 자동화 In-House Tool 개발 프로젝트 (Project: Mango, Statistics)
+    4. [Static Analysis 자동화 In-House Tool 개발 프로젝트](https://zeroing2.github.io/static%20analysis/process/automation/SK_Hynix_History_4/) (Project: Mango, Statistics)
     5. JIRA Issue Search Tool 개발 프로젝트 (Project: JIS)
 + <mark style='background-color: #dcffe4'>삼성테크윈 (네트워크 CCTV Backend FW Software 개발)</mark>
   + **<mark style='background-color: #ffdce0'>Software PL로 참여</mark>**
