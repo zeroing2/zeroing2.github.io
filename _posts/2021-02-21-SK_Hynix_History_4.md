@@ -25,4 +25,8 @@ toc: true
 
    Static Analysis  Process가 성공적으로 셋업됐고, 많은 부분을 자동화시켰습니다.
 
-   ~~ 더 추가해야함
+   미국, 벨라루스, 한국 연구소에서 해당 Process를 사용하고 있으며, 해당 서비스를 3년동안 아무 문제없이 유지해오고 있습니다. 
+
+   Process 를 셋업하면서 개발된 Automation Tool 은 Java를 기반으로 만들어졌으며, Issue Tracker Tool 인 JIRA의 REST API를 이용합니다. 해당 REST API를 통해 Static Analysis 에서 발견된 Defect 정보를 각 과제 개발 Leader에게 JIRA Ticket 을 발행하여 E-mail로 Noti 해주고 있습니다.
+
+   Process의 모든 과정은 Log에 저장되며, 이를 기반으로 Audit을 대응하고 있습니다.  해당 Process는 외부 Consulting 업체를 통해 자문 받은결과, 현 시점에서 Samsung 보다 우위에 있다고 평가받았습니다.
