@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" #"dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" #,"dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "zeroing2 note"
+title                    : "zeroing2's note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "zeroing2"
