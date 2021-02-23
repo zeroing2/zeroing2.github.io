@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Portfolio
+title: Portfolio-Test
 tagline: Who am I?
 search: true
-permalink: /portfolio.html
+categories: test
+permalink: /portfolio-test.html
 toc: true
 ---
 
