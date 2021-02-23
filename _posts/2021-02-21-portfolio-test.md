@@ -2,7 +2,9 @@
 layout: page
 title: Portfolio
 tagline: Who am I?
+search: true
 permalink: /portfolio.html
+toc: true
 ---
 
 ## Contact
@@ -21,7 +23,7 @@ permalink: /portfolio.html
        + 분당 연구소에서 사용중 (**SK hynix Inc.**)
        + USA 연구소에서 사용중 (**SK hynix memory solutions America Inc.**)
        + Belarus 연구소에서 사용중 (**SK hynix memory solutions Eastern Europe, LLC.**)
-    4. Static Analysis 자동화 In-House Tool 개발 프로젝트 (Project: Mango, Statistics)
+    4. [Static Analysis 자동화 In-House Tool 개발 프로젝트](https://zeroing2.github.io/img_test/test1/#bac) (Project: Mango, Statistics)
     5. JIRA Issue Search Tool 개발 프로젝트 (Project: JIS)
 + <mark style='background-color: #dcffe4'>삼성테크윈 (네트워크 CCTV Backend FW Software 개발)</mark>
   + **<mark style='background-color: #ffdce0'>Software PL로 참여</mark>**
