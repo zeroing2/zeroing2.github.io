@@ -7,7 +7,7 @@ toc: true
 
 ## Profile
 
-<center><img src="/assets/img/about/me.jpg" width="30%" height="30%" style="
+<center><img src="/assets/img/about/me.jpg" width="15%" height="15%" style="
 border: 1px solid #cab6de;
 border-radius: 50%;
 padding: 5px;
@@ -15,9 +15,6 @@ padding: 5px;
 -khtml-border-radius: 50%;
 -webkit-border-radius: 50%;
 "></center>
-
-
-
 
 * NAME : Youngjoong Cho
 
