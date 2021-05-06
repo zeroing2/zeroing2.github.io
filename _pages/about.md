@@ -22,10 +22,14 @@ padding: 5px;
 
 + <zeroing2@gmail.com>
 
-## History
+## Education
+
 + <mark style='background-color: #dcffe4'>성균관대학교, 소프트웨어플랫폼학과 졸업 (석사)</mark> - 前 임베디드소프트웨어학과 - <2012.09-2014.08>
   + **<mark style='background-color: #ffdce0'>삼성테크윈 석사과정 산학장학생</mark>**
 + 광운대학교, 컴퓨터공학과 졸업 (학사) <2005.03-2012.02>
+
+## Career
+
 + <mark style='background-color: #dcffe4'>SK하이닉스</mark> - <2017.09 ~ 현재>
   + Firmware Software 개발자로 참여 - <2020.06 ~ 현재>
     1. TCG (Trusted Computing Group) Feature 개발
